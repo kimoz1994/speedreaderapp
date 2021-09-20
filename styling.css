@@ -1,0 +1,59 @@
+/*adding background image to page1*/
+
+#page1{
+    background: url("images/night.jpeg") center center fixed no-repeat;
+    background-size: 100% 100%;
+    text-align: center;
+    
+}
+
+/*styling app header*/
+
+.header{
+    
+    color: #ffffff;
+    font-family: Allan,cursive;
+    letter-spacing: 2.5px;
+    font-size: 20px
+}
+
+/*styling the error message box*/
+#error{
+    
+    background-color: #d27046;
+    width: 50%;
+    color: #ffffff;
+    margin: 20px auto;
+    font-size: 20px;
+    
+    
+}
+
+/*styling the read word box*/
+
+#result{
+    
+    font-size: 50px;
+    background-color: rgba(255,255,255,0.2);
+    padding: 5% 0;
+    color: #ffffff;
+    
+}
+
+/* Hide the number input */
+.full-width-slider input {
+ display: none !important;
+}
+
+.full-width-slider .ui-slider-track {
+    margin-left: 15px;
+}
+
+
+/*styling the sliders area*/
+
+#sliders{
+    
+    color: #ffffff;
+    
+}
